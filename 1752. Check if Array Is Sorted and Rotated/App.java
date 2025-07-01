@@ -1,6 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) {
         int[] a = { 2, 1, 3, 4 };
         System.out.println(check(a));
     }
@@ -21,4 +20,3 @@ public class App {
         return cont <= 1;
     }
 }
-
