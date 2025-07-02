@@ -8,6 +8,7 @@ class main {
     }
 
     public static long countBadPairs(int[] nums) {
+        
         int cont = 0;
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < i; j++) {
