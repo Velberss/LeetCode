@@ -1,5 +1,4 @@
-
-class main {
+public class main {
     public static void main(String[] args) {
         int[] array = { 4, 1, 3, 3 };
         int resultado = (int) countBadPairs(array);
