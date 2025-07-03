@@ -15,7 +15,6 @@ public class main {
                     cont++;
                 }
             }
-
         }
         return cont;
     }

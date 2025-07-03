@@ -10,8 +10,8 @@ public class App {
         int low = 0;
         int mid = 0;
         int high = nums.length - 1;
-        int aux = 0;
-
+        int aux = 0;   
+           
         while (mid <=high){
             if(nums[mid]==0){ 
                 aux=nums[low];

@@ -1,6 +1,4 @@
 
-
-
 class Solution {
     public int possibleStringCount(String word) {
         int count = 1; // sempre existe pelo menos 1 forma (sem erro)
