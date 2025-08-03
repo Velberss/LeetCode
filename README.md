@@ -35,8 +35,8 @@ Sinta-se à vontade para abrir uma _issue_ ou _pull request_ com ideias ou melho
 ## 📬 Contato
 
 - GitHub: [Velberss](https://github.com/Velberss)
-- Email: velber.contato@gmail.com  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) <!-- substitua pelo seu perfil real, se quiser -->
+- Email: goncalvesvelber@gmail.com 
+- LinkedIn: [https://www.linkedin.com/in/velber-fernandes](https://www.linkedin.com/in/velber-fernandes) <!-- substitua pelo seu perfil real, se quiser -->
 
 ---
 
