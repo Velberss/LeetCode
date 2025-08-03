@@ -1,21 +1,45 @@
-# LeetCode Easy - Java Solutions
+# 🧠 LeetCode Solutions by Velber Gonçalves
 
-Este repositório contém soluções em **Java** para problemas de nível **Easy** da plataforma [LeetCode](https://leetcode.com/). O objetivo é praticar algoritmos e estruturas de dados, além de manter um histórico de aprendizado e evolução pessoal.
+Este repositório contém minhas soluções para os desafios do [LeetCode](https://leetcode.com/), organizadas por dificuldade. Estou utilizando este espaço para praticar algoritmos, estruturas de dados e me preparar para entrevistas técnicas.
 
-## 📌 Tecnologias
+---
 
-- Java
-- Algoritmos e Estruturas de Dados
-- Problemas da plataforma LeetCode
+## 📂 Estrutura do Repositório
+📁 LeetCode/
+┣ 📁 Easy/
+┣ 📁 Medium/
+┣ 📁 Hard/
+┗ 📄 README.md
+- **Easy**: Problemas de nível fácil  
+- **Medium**: Problemas com complexidade intermediária  
+- **Hard**: Desafios mais avançados
 
-## 📁 Organização
+---
 
-Cada pasta contém a solução de um problema específico, com o nome ou número do problema e sua respectiva classe `Solution.java`.
+## 📚 Objetivos
 
-## ✅ Objetivo
+- Aprimorar lógica de programação e análise de algoritmos  
+- Estudar abordagens diferentes para problemas clássicos  
+- Manter um histórico de evolução ao longo do tempo  
+- Preparar para entrevistas e competições
 
-Manter um repositório simples e organizado com resoluções de problemas para fins de estudo, revisão e compartilhamento de conhecimento.
+---
 
-## 📚 Licença
+## 🤝 Contribuições
 
-Este projeto está licenciado sob a licença MIT.
+Este repositório é pessoal, mas sugestões são bem-vindas!  
+Sinta-se à vontade para abrir uma _issue_ ou _pull request_ com ideias ou melhorias.
+
+---
+
+## 📬 Contato
+
+- GitHub: [Velberss](https://github.com/Velberss)
+- Email: velber.contato@gmail.com  
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) <!-- substitua pelo seu perfil real, se quiser -->
+
+---
+
+## 🏁 Última Atualização
+
+> Atualizado em: **03/08/2025**
